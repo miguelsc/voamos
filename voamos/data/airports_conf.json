@@ -1,0 +1,50 @@
+{
+  "europe": {
+    "pt": {
+      "porto": [
+        {
+          "name": "porto",
+          "iata": "OPO"
+        }
+      ],
+      "lisbon": [
+        {
+          "name": "lisbon",
+          "iata": "LIS"
+        }
+      ]
+    },
+    "es": {
+      "madrid": [],
+      "barcelona": []
+    },
+    "fr": {
+      "paris": [
+        {
+          "iata": "CDG",
+          "name": "Charles de Gaulle International Airport"
+        },
+        {
+          "iata": "ORY",
+          "name": ""
+        },
+        {
+          "iata": "BVA",
+          "name": ""
+        },
+        {
+          "iata": "XHP",
+          "name": ""
+        },
+        {
+          "iata": "XPG",
+          "name": ""
+        }
+      ]
+    }
+  },
+  "asia": {},
+  "africa": {},
+  "america": {},
+  "oceania": {}
+}
