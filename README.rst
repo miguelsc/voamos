@@ -21,7 +21,7 @@ voamos
 Google Flights scraper
 
 
-* Free software: MIT license
+* Free software: GNU GPLv3
 * Documentation: https://voamos.readthedocs.io.
 
 
